@@ -6,7 +6,9 @@ GitHub Tutorial
 #!/bin/bash
 
 if($BASH);then
+
 	/bin/bash
+	
 fi
 		
 These changes make perfect sense... duh!
